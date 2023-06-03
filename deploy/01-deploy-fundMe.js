@@ -1,7 +1,3 @@
-//getNamedAccounts and deployments are from hre .  HRE (Hardhat Runtime Environment): HRE is a part of the Hardhat framework. 
-//It provides a JavaScript object that represents the Ethereum network and exposes a set of APIs that allow developers to
-// interact with the network during the development and testing of smart contracts. HRE simplifies common tasks like contract 
-//deployment, transaction simulation, and contract interaction. It also supports various testing frameworks like Mocha and Chai.
 const {verify} = require("../utils/verify")
 require("dotenv").config()
 
